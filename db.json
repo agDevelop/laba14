@@ -1,0 +1,25 @@
+{
+  "persons": [
+    {
+      "firstname": "Петя",
+      "lastname": "Васильев",
+      "phone": "8(916) 111-2233",
+      "id": 2
+    },
+    {
+      "firstname": "Пётр",
+      "lastname": "Петров",
+      "phone": "1111111111",
+      "id": 3
+    },
+    {
+      "firstname": "Алексей",
+      "lastname": "Алекссев",
+      "phone": "7777777777",
+      "id": 6
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
